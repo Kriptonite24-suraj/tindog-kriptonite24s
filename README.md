@@ -1,1 +1,1 @@
-# tindog-kriptonite24s
+TinDog Starting Files
